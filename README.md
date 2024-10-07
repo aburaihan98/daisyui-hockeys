@@ -35,3 +35,6 @@ Asynchronous code is handled using async and await for better readability and ha
 
 Block-scoped variable declarations with const and let are used throughout, which helps prevent variable hoisting issues. For example, const posts = document.getElementById("posts");.
 
+## Live link to the deployed project.
+
+https://github.com/aburaihan98/daisyui-hockeys
